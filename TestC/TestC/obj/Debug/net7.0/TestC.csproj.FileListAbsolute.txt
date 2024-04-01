@@ -1,0 +1,15 @@
+/Users/ruslan/Projects/csha/TestC/TestC/bin/Debug/net7.0/TestC
+/Users/ruslan/Projects/csha/TestC/TestC/bin/Debug/net7.0/TestC.deps.json
+/Users/ruslan/Projects/csha/TestC/TestC/bin/Debug/net7.0/TestC.runtimeconfig.json
+/Users/ruslan/Projects/csha/TestC/TestC/bin/Debug/net7.0/TestC.dll
+/Users/ruslan/Projects/csha/TestC/TestC/bin/Debug/net7.0/TestC.pdb
+/Users/ruslan/Projects/csha/TestC/TestC/obj/Debug/net7.0/TestC.csproj.AssemblyReference.cache
+/Users/ruslan/Projects/csha/TestC/TestC/obj/Debug/net7.0/TestC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruslan/Projects/csha/TestC/TestC/obj/Debug/net7.0/TestC.AssemblyInfoInputs.cache
+/Users/ruslan/Projects/csha/TestC/TestC/obj/Debug/net7.0/TestC.AssemblyInfo.cs
+/Users/ruslan/Projects/csha/TestC/TestC/obj/Debug/net7.0/TestC.csproj.CoreCompileInputs.cache
+/Users/ruslan/Projects/csha/TestC/TestC/obj/Debug/net7.0/TestC.dll
+/Users/ruslan/Projects/csha/TestC/TestC/obj/Debug/net7.0/refint/TestC.dll
+/Users/ruslan/Projects/csha/TestC/TestC/obj/Debug/net7.0/TestC.pdb
+/Users/ruslan/Projects/csha/TestC/TestC/obj/Debug/net7.0/TestC.genruntimeconfig.cache
+/Users/ruslan/Projects/csha/TestC/TestC/obj/Debug/net7.0/ref/TestC.dll

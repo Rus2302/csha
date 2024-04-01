@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{8F76F3D0-F855-433B-B876-309863AA63FC}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.TestC PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="TestC/Program.cs">
     <Files>
       <File FileName="TestC/Program.cs" Line="7" Column="33" />
@@ -13,13 +13,11 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TestC" expanded="True">
-            <Node name="TestC">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="TestC" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TestC PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

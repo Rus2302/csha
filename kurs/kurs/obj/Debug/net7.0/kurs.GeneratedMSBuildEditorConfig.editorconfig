@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = TestC
-build_property.ProjectDir = /Users/ruslan/Projects/csha/TestC/TestC/
+build_property.RootNamespace = kurs
+build_property.ProjectDir = /Users/ruslan/Projects/csha/kurs/kurs/

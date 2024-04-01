@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ruslan/Projects/csha/TestC/TestC/TestC.csproj",
-      "projectName": "TestC",
-      "projectPath": "/Users/ruslan/Projects/csha/TestC/TestC/TestC.csproj",
+      "projectUniqueName": "/Users/ruslan/Projects/csha/kurs/kurs/kurs.csproj",
+      "projectName": "kurs",
+      "projectPath": "/Users/ruslan/Projects/csha/kurs/kurs/kurs.csproj",
       "packagesPath": "/Users/ruslan/.nuget/packages/",
-      "outputPath": "/Users/ruslan/Projects/csha/TestC/TestC/obj/",
+      "outputPath": "/Users/ruslan/Projects/csha/kurs/kurs/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ruslan/.nuget/NuGet/NuGet.Config"
